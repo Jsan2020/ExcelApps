@@ -200,8 +200,6 @@ MsgBox "Done"
 End Sub
 
 Sub RefreshAll()
-
-' RefreshALL Macro
 ' This Macro will first refresh the DMpricing data, then other queries
 Dim password As Variant
 password = Application.InputBox("Enter Password", "Password Protected")
