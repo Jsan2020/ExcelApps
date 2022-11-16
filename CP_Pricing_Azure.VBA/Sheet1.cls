@@ -89,7 +89,7 @@ End Sub
 Sub RefreshALL_SaveCSVstoImport_TimeArchiveCopyofCSVs()
 '
 ' RefreshALL_SaveCSVstoImport_TimeArchiveCopyofCSVs Macro
-' THis Macro will Refresh all data connections, save the CSVs to an import file location, then save a copy of the CSVs to a archived destination.
+' This Macro will Refresh all data connections, save the CSVs to an import file location, then save a copy of the CSVs to a archived destination.
 '
 
 'This initial process password protects the Macro from being run before a password is entered.
