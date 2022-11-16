@@ -48,7 +48,7 @@ End Sub
 Sub CLOSE_AllSheets()
 '
 ' CLOSE_AllSheets Macro
-' THis Macro will close all sheets in the Workbook
+' This Macro will close all sheets in the Workbook
 '
 
 '
